@@ -1,18 +1,12 @@
-<img src="https://socsportal.cit.ie/assets/images/logowhite.jpg" alt="CIT Logo" width="25%" />
+<img src="https://socsportal.cit.ie/assets/images/logowhite.jpg" alt="Cork Institute of Technology" width="25%" />
 
-#### Cork Institute of Technology
-
-##### CR106 - BSc Honours Software Development
-
-##### 2020-21 Academic Year (Year 1 Semester 1)
-
----
+#### CR106 - BSc Honours Software Development
 
 # SOFT6007 - Web Development Fundamentals Project 2
 
-Worth: 25%
+[![Demo](https://repository-images.githubusercontent.com/357985915/1135928b-51fe-47bd-b0b4-9c2d307ab02f)](https://szpricky.github.io/disney-character-game)
 
-**Due Date:** Friday 11th December @ 23:59
+[Demo](https://szpricky.github.io/disney-character-game)
 
 ## Disney Character Game
 
@@ -58,9 +52,5 @@ Create a dynamic web page using JavaScript which will allow the user to play a g
 
 Zip your project folder into one file and upload it through Canvas
 using the link for your class group.
-
----
-
-#### SOFT6007 - Web Development Fundamentals
 
 ##### Patrik Richard Szilagyi, 2020
