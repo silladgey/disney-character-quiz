@@ -7,11 +7,12 @@
         max-width: 100%;
     }
 
-    div.column{
+    div.column {
         width: 100%;
     }
 
-    .columns .left, .columns .right {
+    .columns .left,
+    .columns .right {
         display: flex;
         flex-direction: column;
         align-items: center;
